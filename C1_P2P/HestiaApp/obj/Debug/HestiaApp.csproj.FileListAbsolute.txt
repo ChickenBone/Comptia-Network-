@@ -1,0 +1,11 @@
+D:\Git\HestiaMain\HestiaApp\HestiaApp\bin\Debug\HestiaApp.exe.config
+D:\Git\HestiaMain\HestiaApp\HestiaApp\bin\Debug\HestiaApp.exe
+D:\Git\HestiaMain\HestiaApp\HestiaApp\bin\Debug\HestiaApp.pdb
+D:\Git\HestiaMain\HestiaApp\HestiaApp\obj\Debug\HestiaApp.csprojResolveAssemblyReference.cache
+D:\Git\HestiaMain\HestiaApp\HestiaApp\obj\Debug\HestiaApp.Properties.Resources.resources
+D:\Git\HestiaMain\HestiaApp\HestiaApp\obj\Debug\HestiaApp.csproj.GenerateResource.cache
+D:\Git\HestiaMain\HestiaApp\HestiaApp\obj\Debug\HestiaApp.csproj.CoreCompileInputs.cache
+D:\Git\HestiaMain\HestiaApp\HestiaApp\obj\Debug\HestiaApp.exe
+D:\Git\HestiaMain\HestiaApp\HestiaApp\obj\Debug\HestiaApp.pdb
+D:\Git\HestiaMain\HestiaApp\HestiaApp\obj\Debug\HestiaApp.HestiaHelp.resources
+D:\Git\HestiaMain\HestiaApp\HestiaApp\obj\Debug\HestiaApp.Form1.resources
